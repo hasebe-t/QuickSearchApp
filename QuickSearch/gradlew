@@ -1,0 +1,5 @@
+#!/bin/sh
+# Gradle wrapper script
+GRADLE_OPTS="${GRADLE_OPTS:-"-Xmx512m -Xms256m"}"
+APP_HOME="$(cd "$(dirname "$0")" && pwd -P)"
+exec java $GRADLE_OPTS -jar "$APP_HOME/gradle/wrapper/gradle-wrapper.jar" "$@"

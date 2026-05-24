@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ランチャー用テーマ（起動画面の背景色） -->
+    <style name="Theme.Mireru" parent="android:Theme.Material.NoTitleBar">
+        <item name="android:windowBackground">@color/bg</item>
+        <item name="android:statusBarColor">@color/bg</item>
+        <item name="android:navigationBarColor">@color/bg</item>
+    </style>
+</resources>

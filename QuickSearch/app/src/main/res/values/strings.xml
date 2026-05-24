@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">みれる</string>
+    <string name="mode_select">選択</string>
+    <string name="mode_pan">移動</string>
+    <string name="btn_load_image">画像を選択</string>
+    <string name="btn_zoom_in">拡大</string>
+    <string name="btn_zoom_out">縮小</string>
+    <string name="btn_zoom_reset">1:1</string>
+    <string name="menu_kanji">漢字・語句を調べる</string>
+    <string name="menu_explain">詳しく説明する</string>
+    <string name="menu_translate">翻訳する</string>
+    <string name="menu_web">ウェブで検索</string>
+    <string name="camera_hint">文字や物をタップして調べる</string>
+    <string name="analyzing">AIが解析中…</string>
+    <string name="history_empty">調査履歴はありません</string>
+    <string name="error_no_selection">選択範囲が認識できませんでした</string>
+    <string name="permission_camera">カメラの使用を許可してください</string>
+    <string name="permission_storage">画像へのアクセスを許可してください</string>
+</resources>

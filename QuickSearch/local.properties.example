@@ -1,0 +1,12 @@
+# ===================================================
+# local.properties.example
+# このファイルを local.properties にコピーして
+# 実際の値を設定してください。
+# local.properties は .gitignore に含まれており
+# リポジトリにコミットしないでください。
+# ===================================================
+
+# Android SDK パス（Android Studio が自動生成）
+sdk.dir=C\:\\Users\\yourname\\AppData\\Local\\Android\\Sdk
+
+# ※ Gemini APIキーはアプリの設定画面から入力します（ここには不要）
